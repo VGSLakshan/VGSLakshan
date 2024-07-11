@@ -10,14 +10,7 @@
 - 📫 How to reach me **lakshansanchitha2000@gmail.com**
 
 - ⚡ Fun fact **cll me sanchi**
-<p><img align="right" height="250" width="500"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="SubhadeepZilong" /></p>
-
-
-
-  
-<div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VGSLakshan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
-</div>
+<p><img align="center" height="250" width="500"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="SubhadeepZilong" /></p>
 
 ---
 <h3 align="left">Connect with me:</h3>
