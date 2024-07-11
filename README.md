@@ -10,7 +10,8 @@
 - 📫 How to reach me **lakshansanchitha2000@gmail.com**
 
 - ⚡ Fun fact **cll me sanchi**
-<p><img align="center" height="250" width="500"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="SubhadeepZilong" /></p>
+
+<p align="center"><img align="center" height="250" width="500"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="SubhadeepZilong" /></p>
 
 ---
 <h3 align="left">Connect with me:</h3>
