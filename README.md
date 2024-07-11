@@ -25,3 +25,5 @@
    <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.pngall.com/wp-content/uploads/13/Capcut-Transparent.png" alt="[python](https://www.blackmagicdesign.com/products/davinciresolve)" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+  <img alt="Hola" height="70px" width="1200px" align="center" src="https://i.pinimg.com/originals/49/23/29/492329d446c422b0483677d0318ab4fa.gif"></img><br>
